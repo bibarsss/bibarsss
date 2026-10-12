@@ -3,32 +3,25 @@
 ## I am a backend developer from Kazakhstan
 
 ### Languages:
-- PHP 
-- Go
-- SQL
-- JavaScript
-- familiar with Pyhon, Java 
+- PHP (Laravel)
+- Go 
+- Python (FastAPI, Playwright)
 
 ### Techs and Tools:
-- Server (nginx, Roadrunner)
-- PHP frameworks (Laravel, Spiral)
-- Go frameworks (gin)
-- SQL (MySQL, MariaDB, PostgreSQL)
-- JavaScript (jQuery)
-- HTML/CSS (Bootstrap 5, Tailwind)
-- REST API
-- Current OS - Linux Ubuntu 22.04
+- Wezterm + Herdr + Neovim
+- Claude Code
 - Docker
-- Elasticsearch
-- Meilisearch
-- Git (Gitflow)
-- PHPStorm
-- GoLand
-- VSCode
-- Postman
-- PowerShell / Bash commands
-- Swagger
+- RabbitMQ
+- Kafka
+- Clickhouse
+- Grafana
+- Prometheus
 
+### Me
+- 🔭 I’m currently working on my pet projects, doing some stuff from scratch on PHP/Golang (without using any AI)
+- 🌱 I’m currently learning how to build powerful and high quality architecture on PHP/Go 
+- 💬 Ask me about my coding environment and about my IDE (neovim)
+- ⚡ Fun fact: I can cook a meal without using a recipe and I love it cuz i cooked
 
 
 <!-- <p align="left">
@@ -60,12 +53,5 @@ Feel free to check out my projects and get in touch!
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
